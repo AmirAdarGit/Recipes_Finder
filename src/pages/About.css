@@ -1,0 +1,13 @@
+.About{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    text-align: center;
+    min-height: 100vh;
+    border:  solid;
+  }
+.title{
+  color:rgb(223, 157, 76);
+  border: brown dotted;
+  text-align: center;
+
+}
+  
