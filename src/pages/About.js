@@ -1,6 +1,6 @@
 import React from 'react'
 import Button from '@material-ui/core/Button'
-import { BrowserRouter as Router, Link} from 'react-router-dom'
+import { BrowserRouter as Link} from 'react-router-dom'
 
 import './About.css'
 
