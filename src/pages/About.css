@@ -1,13 +1,13 @@
-.About{
-    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
-    text-align: center;
-    min-height: 100vh;
-    border:  solid;
-  }
-.title{
-  color:rgb(223, 157, 74);
+.about {
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+  text-align: center;
+  min-height: 100vh;
+  border: solid;
+}
+.title {
+  color: rgb(223, 157, 74);
   border: rgb(169, 56, 56) dotted;
   text-align: center;
-
 }
-  
+.regards {
+}

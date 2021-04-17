@@ -1,0 +1,22 @@
+.resepie-item {
+  flex: 1;
+  border: 1px solid aliceblue;
+  margin: 10px;
+  box-shadow: 0 0 10px 2px rebeccapurple;
+  display: flex;
+  flex-direction: column;
+}
+
+.resepie-steps {
+  flex: 1;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.resepie-image {
+  width: 300px;
+  height: 300px;
+  align-self: center;
+  margin-top: 50px;
+  margin-bottom: 12px;
+}

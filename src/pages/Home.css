@@ -1,25 +1,49 @@
-.Home{
+.Home {
   background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
   text-align: center;
-  /* min-height: 100vh; */
+  flex-direction: row;
 }
 
-.search-form{
+.title-and-search-bar {
+  display: flex;
+}
+
+.home-about-btn:hover {
+  background-color: burlywood;
+  /* padding: 6px 8px; */
+}
+
+form.search-form {
+  flex: 1;
+  height: fit-content;
+}
+
+.search-input {
+  box-shadow: 0 0 19px 5px #9ffd78;
+}
+
+.search-form {
   min-height: 10vh;
   display: flex;
   justify-content: center;
-  align-items: center;  
+  align-items: center;
 }
-.search-bar{
+.search-bar {
   width: 50%;
   height: 20px;
 
   border: none;
   padding: 10px;
 }
-.search-button{
-  background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+.search-button {
+  border-radius: 6px;
+  background: black;
   border: none;
   color: white;
   height: 20px;
+  margin-left: 11px;
+}
+
+.resepies-container {
+  display: flex;
 }
